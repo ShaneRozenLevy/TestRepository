@@ -4,3 +4,5 @@ useMomnetumObserver();
 //Removed added door opening behavior for top of stairs 
 
 //Start Dancing 
+useMomentumObserver();
+Dance();
